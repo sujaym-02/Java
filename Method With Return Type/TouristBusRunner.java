@@ -35,18 +35,6 @@ class TouristBusRunner{
 
 
 
-
-
-
-
-
-
-		
-
-
-
-
-
 	}
 
 
